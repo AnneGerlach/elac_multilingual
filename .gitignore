@@ -1,8 +1,12 @@
 # data folder
-bundle_blams_eng/
-bundle_blams_multiling/
-translate_pattern/
-translated_pattern/
+bundle_blams_eng/*
+bundle_blams_multiling/*
+translate_pattern/*
+translated_pattern/*
+!bundle_blams_eng/.gitkeep
+!bundle_blams_multiling/.gitkeep
+!translate_pattern/.gitkeep
+!translated_pattern/.gitkeep
 getblambundles.txt
 
 # Byte-compiled / optimized / DLL files
