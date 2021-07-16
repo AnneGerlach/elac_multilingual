@@ -1,3 +1,10 @@
+# data folder
+bundle_blams_eng/
+bundle_blams_multiling/
+translate_pattern/
+translated_pattern/
+getblambundles.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
